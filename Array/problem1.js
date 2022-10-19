@@ -6,7 +6,9 @@
 
 */
 
-// SOLUTION STARTS HERE 
+/* 
+* SOLUTION STARTS HERE 
+*/ 
 
 class Student {
     constructor() {
