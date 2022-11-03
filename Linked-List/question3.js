@@ -33,7 +33,7 @@ function Person(name,gender) {
   people.add(new Person("Jayesh","m"));
   people.add(new Person("Tushar","m"));
   people.add(new Person("Suraj","m"));
-  people.add(new Person("Jaydeep","m"));
+  people.add(new Person("Gaurav","m"));
   people.add(new Person("Shivani","f"));
   people.add(new Person("Shrutika","f"));
   people.add(new Person("Jayashree","f"));
